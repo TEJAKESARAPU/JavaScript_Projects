@@ -1,4 +1,4 @@
-Visit the site <h1 href="https://tejakesarapu.github.io/JavaScript_Projects/">JavaScript Projects</h1>
+Visit the site <a href="https://tejakesarapu.github.io/JavaScript_Projects/">JavaScript Projects</a>
 
 1. Quiz game
 2. Random number guesser (0-100)
